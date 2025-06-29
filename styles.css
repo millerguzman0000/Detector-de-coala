@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fff0f5;
+  padding: 20px;
+  text-align: center;
+}
+
+.app {
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"], input[type="file"] {
+  display: block;
+  margin: 10px auto;
+}
+
+.foto {
+  max-width: 100%;
+  border-radius: 20px;
+  margin: 10px 0;
+}
+
+.resultado {
+  background: #e6e6fa;
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+.mini-info {
+  margin-top: 8px;
+  color: #99004d;
+  font-size: 0.9rem;
+}
